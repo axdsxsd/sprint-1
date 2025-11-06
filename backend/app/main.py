@@ -3,7 +3,7 @@ from fastapi import FastAPI
 app = FastAPI(
     title="Tickt",
     version="0.1",
-    description="Backend service for Todo List project (Sprint 1)."
+    description="Backend service for Tickt project."
 )
 
 # Временное хранилище задач
