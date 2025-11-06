@@ -28,7 +28,10 @@ pip install -r backend/requirements.txt
 ## 🛠️ Как запустить сервер
 
 1. В терминале из корня проекта введи:
-   uvicorn backend.app.main:app --reload
+```powershell
+uvicorn backend.app.main:app --reload
+```
+
 
 2. Чтобы остановить в терминале, где запущен сервер, нажми:
    CTRL + C
