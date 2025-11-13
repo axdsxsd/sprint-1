@@ -1,1 +1,9 @@
-https://www.canva.com/design/DAGyqXwfHv0/FtN199eqCz4xIGuLP9qDWQ/edit?utm_content=DAGyqXwfHv0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### Дизайн проекта Tickt
+
+Ссылка на макеты и визуальное оформление интерфейса проекта **Tickt**:  
+[Просмотреть дизайн в Google Drive](https://drive.google.com/drive/folders/1hC0FkszeBX-_XSl9ceLrWGASyTGsWykQ?usp=sharing)
+
+**Описание:**
+- Основные экраны веб-приложения “Todo List”.  
+- Служит визуальным руководством для фронтенда и согласования с backend.  
+- Используется как ориентир для дальнейшей разработки интерфейса.
