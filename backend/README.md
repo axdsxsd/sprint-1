@@ -32,7 +32,6 @@ pip install -r backend/requirements.txt
 uvicorn backend.app.main:app --reload
 ```
 
-
 2. Чтобы остановить в терминале, где запущен сервер, нажми:
    CTRL + C
 
